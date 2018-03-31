@@ -10,6 +10,7 @@
           and <a target="_blank" href="http://www.cs.columbia.edu/~allen/">Peter Allen</a><br>
           </p><p>
             </p><p style="color:#aaa; margin-bottom: 20px">Columbia Robotics Lab</p>
+            <img src="http://crlab.cs.columbia.edu/images/logo.jpg"/>
           </center>
 <hr />
 
