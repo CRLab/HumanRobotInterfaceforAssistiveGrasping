@@ -1,3 +1,5 @@
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
 <center>
         <p>
           <a target="_blank" href="http://davidwa.tkins.me">David Watkins <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>, 
@@ -21,7 +23,9 @@ This work describes a new human-in-the-loop (HitL) assistive grasping system for
 
 ### Video
 
-<iframe width="550" height="390" src="https://www.youtube.com/embed/vsJwSkVBtkY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center>
+        <iframe width="550" height="390" src="https://www.youtube.com/embed/vsJwSkVBtkY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
 
 <hr />
 
