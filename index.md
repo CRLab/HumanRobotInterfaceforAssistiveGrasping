@@ -11,7 +11,7 @@
         </p>
         <p>
         </p>
-        <img style="height:auto;width:170px;" src="/images/logo.jpg">
+        <img style="height:auto;width:170px;" src="http://crlab.cs.columbia.edu/images/logo.jpg">
         <p style="color:#aaa; margin-bottom: 20px">Columbia Robotics Lab</p>
 </center>
 <hr />
