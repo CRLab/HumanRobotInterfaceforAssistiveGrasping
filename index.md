@@ -1,15 +1,13 @@
-<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
-
 <center>
         <p>
-          <a target="_blank" href="http://davidwa.tkins.me">David Watkins <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>, 
-          <a target="_blank" href="https://www.linkedin.com/in/chaiwen">Chaiwen Chou <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>, Caroline Weinberg, 
-          <a target="_blank" href="http://www.cs.columbia.edu/~jvarley/">Jacob Varley <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>, 
-          <a target="_blank" href="https://www.linkedin.com/in/ixjlyons/">Kenneth Lyons <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>,
-          <a target="_blank" href="https://faculty.engineering.ucdavis.edu/joshi/">Sanjay Joshi <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>,
+          <a target="_blank" href="http://davidwa.tkins.me">David Watkins-Valls</a>, 
+          <a target="_blank" href="https://www.linkedin.com/in/chaiwen">Chaiwen Chou</a>, Caroline Weinberg, 
+          <a target="_blank" href="http://www.cs.columbia.edu/~jvarley/">Jacob Varley</a>, 
+          <a target="_blank" href="https://www.linkedin.com/in/ixjlyons/">Kenneth Lyons</a>,
+          <a target="_blank" href="https://faculty.engineering.ucdavis.edu/joshi/">Sanjay Joshi</a>,
           Lynne Weber,
-          <a target="_blank" href="http://www.cumc.columbia.edu/rehab/profile/jstein">Joel Stein <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>,
-          and <a target="_blank" href="http://www.cs.columbia.edu/~allen/">Peter Allen <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a><br>
+          <a target="_blank" href="http://www.cumc.columbia.edu/rehab/profile/jstein">Joel Stein</a>,
+          and <a target="_blank" href="http://www.cs.columbia.edu/~allen/">Peter Allen</a><br>
           </p><p>
             </p><p style="color:#aaa; margin-bottom: 20px">Columbia Robotics Lab</p>
           </center>
